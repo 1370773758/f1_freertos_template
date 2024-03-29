@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "driver_ssd2828.h": "c",
+        "display.h": "c",
+        "userdef.h": "c",
+        "lcd_ra8889.h": "c",
+        "gt911_i2c.h": "c",
+        "enbmp.h": "c",
+        "history.h": "c"
+    }
+}

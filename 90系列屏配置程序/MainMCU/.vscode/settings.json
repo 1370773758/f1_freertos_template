@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lcd_ra8889.h": "c",
+        "userdef.h": "c",
+        "ra8871.h": "c",
+        "readyview.h": "c",
+        "gt911_i2c.h": "c",
+        "ra8889_api.h": "c"
+    }
+}
